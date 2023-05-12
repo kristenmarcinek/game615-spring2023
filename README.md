@@ -10,7 +10,7 @@ Exercise 5: [Play it here!](https://starishsky.github.io/game615-spring2023-05/p
 
 
 
-Exercise 6: [Play it here: ](https://marcinek.tech/game615-spring2023-06/play) 
+Exercise 6: [Play it here!](https://marcinek.tech/game615-spring2023-06/play) 
 
 
 
@@ -18,10 +18,10 @@ Midterm: [Play it here!](https://marcinek.tech/game615-spring2023-midterm/play/)
 
 
 
-Exercise 7: [Play it here: ](https://marcinek.tech/game615-spring2023-07/play/)
+Exercise 7: [Play it here!](https://marcinek.tech/game615-spring2023-07/play/)
  
 
-Exercise 8: [Play it here: ](https://github.com/kristenmarcinek/game615-spring2023-08)
+Exercise 8: [Play it here!](https://github.com/kristenmarcinek/game615-spring2023-08)
 
 
-Final: [Play it here: ](https://marcinek.tech/game615-spring2023-final/play/)
+Final: [Play it here!](https://marcinek.tech/game615-spring2023-final/play/)
